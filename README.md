@@ -1,10 +1,12 @@
-# 🏠 Equipe de Eficiência Operacional · DEAC
----
+# 🏠 Eficiência Operacional · DEAC
 
-## 🌿 Sobre Nós
+**Automação inteligente. Resultados reais.**
 
-A **Equipe de Eficiência Operacional (DEAC)** atua como o elo entre **dados, automação e performance operacional** dentro da **Diretoria de Atendimento ao Cliente** da **Leroy Merlin Brasil**.  
-Nosso propósito é **impulsionar a excelência operacional** através de soluções inteligentes que otimizam processos, reduzem desperdícios e ampliam o impacto das áreas de atendimento.
+A **Equipe de Eficiência Operacional (DEAC)** é responsável por impulsionar a **agilidade e a precisão das operações** da **Diretoria de Atendimento ao Cliente** por meio de **dados, automação e otimização de processos**.
+
+Nosso propósito é **transformar desafios operacionais em oportunidades de melhoria contínua**, utilizando inteligência de dados para gerar diagnósticos precisos e decisões mais assertivas.
+
+Acreditamos que eficiência é resultado de **análise, tecnologia e execução estruturada** — por isso, desenvolvemos soluções que conectam pessoas, processos e performance para entregar **operações mais ágeis, sustentáveis e escaláveis**.
 
 ---
 
